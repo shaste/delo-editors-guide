@@ -83,13 +83,13 @@ a.banner.self-link.orange(href="/all/assessment")
 
 ![pics/Screenshot2018-11-23at10.38.04.png](pics/Screenshot2018-11-23at10.38.04.png)
 
-Некадрированные картинки из статей без фона лежат [в дропбоксе](https://www.dropbox.com/sh/085fl24bdzhedhd/AAAIfS4BzE6M97eseDTOBXqga?dl=0)
+Некадрированные картинки из статей без фона лежат [в яндекс диске](https://yadi.sk/d/Jc5BcbG0IDFIgg)
 
 Картинку для царской ссылки предварительно надо подготовить в пропорциях 3:2. Файл с заготовкой для кадрирования: 
 
-[self-link-images.psd](pics/self-link-images.psd)
+[self-link-images.psd](templates/self-link-images.psd)
 
-Кадрированные картинки [в дропбоксе](https://www.dropbox.com/home/Modulbank-delo/Отдельно%20объекты%20и%20портреты/_царские%20картинки) (можно сразу брать для вёрстки)
+Кадрированные картинки [в яндекс диске](https://yadi.sk/d/4pnhEEsIVZ8wXw) (можно сразу брать для вёрстки)
 
 Фон берем с обложки статьи, на которую ссылаемся. Тег после `a.banner.self-link`  (в примере выше — `.orange`) заменяет цвет фона:
 
@@ -807,7 +807,7 @@ noindex
 
 ![pics/Screenshot_2020-03-10_at_13.43.48.png](pics/Screenshot_2020-03-10_at_13.43.48.png)
 
-Шаблон картинки для «результата»:
+[Шаблон картинки для «результата» ↓](templates/quiz-result-pic.psd)
 
 ### Тест «Насколько ты…»
 
@@ -904,11 +904,11 @@ noindex
     ...
 ```
 
-Шаблоны для сниппетов:
+Шаблоны для сниппетов: 
 
-для обычного теста ссылку
+[для обычного теста ↓](templates/quiz-snippet.psd)
 
-для правильно/неправильно
+[для правильно/неправильно ↓](templates/quiz-true-false-snippet-2.psd)
 
 
 
