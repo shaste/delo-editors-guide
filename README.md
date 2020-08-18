@@ -886,8 +886,7 @@ noindex
 
 На сниппетах пишем текст от первого лица
 
-<img src="pics/Group_3_Copy_8.png" width="45%">
-<img src="pics/sanpin-5_copy_5.png" width="45%">
+<img src="pics/Group_3_Copy_8.png" width="45%">   <img src="pics/sanpin-5_copy_5.png" width="45%">
 
 Картинки-сниппеты для результатов теста загружаются вручную.
 
