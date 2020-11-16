@@ -499,20 +499,54 @@ p Под убытками тут понимают реальный ущерб и
 .table.three-columns
   .th
     .td
-      h5 Первая
+      h5 Столбец1
     .td
-      h5 Вторая
+      h5 Столбец2
     .td
-      h5 Третья
+      h5 Столбец3
+ 
   .tr
     .td
-      p Накапливает информацию о клиенте
+      p #[a(href='https://zakupki.gov.ru') Строка1]
     .td
-      p Записывает имя клиента, день рождения, частоту обращений, что покупает и на какие суммы, почему отказывается.
+      p Строка1
     .td
-      p Знает всё, что хотел и спрашивал клиент вчера и два года назад.
-
+      p Строка1
+ 
+  .tr
+    .td
+      p #[a(href='https://zakupki.gov.ru') Строка2]
+    .td
+      p Строка2
+    .td
+      p Строка2
+ 
+  .tr
+    .td
+      p #[a(href='https://zakupki.gov.ru') Строка3]
+    .td
+      p Строка3
+    .td
+      p Строка3
+ 
+  .tr
+    .td
+      p #[a(href='https://zakupki.gov.ru') Строка4]
+    .td
+      p Строка4
+    .td
+      p Строка4
+ 
+  .tr
+    .td
+      p #[a(href='https://zakupki.gov.ru') Строка5]
+    .td
+      p Строка5
+    .td
+      p Строка5
 ```
+
+![pics/table-three-columns.png](pics/table-three-columns.png)
 
 <br>
 
