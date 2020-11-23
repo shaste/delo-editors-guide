@@ -830,7 +830,7 @@ h5 Коротко
 [IMG name="kitty.jpg"]
 ```
 
-и вставить вместо многоточия. Описание добавить внутрь `data-caption`.
+и вставить вместо многоточия. Описание добавить внутрь `data-caption`. А к `.fotorama` добавить `.with-captions(data-auto="false")`, чтобы на телефоне описание не залезало на фотографию.
 
 ```jade
 img(src="/storage/publication-images/..." data-caption="...")
@@ -839,7 +839,7 @@ img(src="/storage/publication-images/..." data-caption="...")
 Получится такая конструкция
 
 ```jade
-.fotorama
+.fotorama.with-captions(data-auto="false")
   img(src="/storage/publication-images/kitty.jpg" data-caption="Котик ест блинчики")
   img(src="/storage/publication-images/kitty-2.jpg" data-caption="Если денег нет совсем, можно выучиться на священника и получить свой приход. Правда, бизнес этот так себе: дорогие иконы, маленькая выручка и тяжелая работа без пенсий и выходных.")
 ```
