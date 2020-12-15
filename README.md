@@ -231,6 +231,13 @@ a.banner.self-link.orange(href="/all/assessment")
 
 <img src="pics/2018-11-2012.23.20.jpg" alt="предустановленные цвета" width="50%">
 
+Цвет для фона также можно скопировать из палитры под заголовком и подставить через `style` вот так:
+
+```jade
+a.banner.self-link(href="/all/assessment" style="background-color: rgb(0,0,0);")
+```
+
+
 <br>
 
 ### Ссылка в тексте
